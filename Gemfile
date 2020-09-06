@@ -6,3 +6,5 @@ gem 'twitter'
 
 # for env
 gem 'dotenv'
+
+gem 'byebug'
